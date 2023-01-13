@@ -8,7 +8,7 @@ const Portfolio = () => {
     {
       id: 1,
       src: coffeePage,
-      website: "https://buy-me-coffee-dun.vercel.app/",
+      website: "https://buymekoffee.vercel.app/",
       github: "https://github.com/FrazNaveed/buy_me_coffee",
       heading: "Buy Me Coffee",
     },
